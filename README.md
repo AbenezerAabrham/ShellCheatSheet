@@ -13,8 +13,8 @@ A beautiful, glassmorphism-styled command reference for mastering the Linux/Unix
 ## 🎨 Features
 
 - **✨ Modern Aesthetics**: Built with a premium dark-mode glassmorphism UI.
-- **📂 Contextual Organization**: Commands grouped by Navigation, Git, System Info, Networking, and more.
-- **📱 Responsive Design**: Access your commands from any device, anywhere.
+- **📂 Contextual Organization**: Commands grouped by Navigation, Git, System Info, Networking, Docker, and Vercel.
+- **📱 Responsive & Zoom-Ready**: A flexible CSS Grid layout that automatically fills space when you zoom in or out.
 - **🚀 Ultra Fast**: 100% static HTML/CSS with zero dependencies.
 
 ---
